@@ -8,6 +8,7 @@ sqnquark社は、同社のArktoon ShadersをBoothとGitHubの両方から削除�
 ## [Documentation (Japanese only) / 指示](https://web.archive.org/web/20201127155715/https://synqark.github.io/Arktoon-Shaders-Doc/)
 
 Note that this shader should not be used for new work, as it is no longer being maintained.
+
 なお、このシェーダーはメンテナンスが終了しているため、新規の作業には使用しないでください。
 
 The Arktoon shaders are licensed under MIT license.
