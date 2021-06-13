@@ -5,6 +5,11 @@ sqnquark decided to remove their Arktoon Shaders from both Booth and GitHub. Unf
 sqnquark社は、同社のArktoon ShadersをBoothとGitHubの両方から削除することを決定しました。残念ながらこれは、Arktoon Shadersがすでにインストールされていない限り、既存のアバター（無料または有料）をUnity Sceneに読み込むことができないことを意味します。このリポジトリでは、Arktoon Shadersの最新のUnityPackageを提供していますので、これらのアバターを引き続き使用することができます。
 
 ## [Download / ダウンロード](https://github.com/absolute-disappointment/arktoon/raw/main/arktoon-shaders-1.0.2.6.unitypackage)
+## [Documentation (Japanese only) / 指示](https://web.archive.org/web/20201127155715/https://synqark.github.io/Arktoon-Shaders-Doc/)
+
+Note that this shader should not be used for new work, as it is no longer being maintained.
+なお、このシェーダーはメンテナンスが終了しているため、新規の作業には使用しないでください。
 
 The Arktoon shaders are licensed under MIT license.
+
 ArktoonのシェーダーはMITライセンスで提供されています。
